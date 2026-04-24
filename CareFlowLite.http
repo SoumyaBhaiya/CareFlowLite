@@ -1,0 +1,6 @@
+@CareFlowLite_HostAddress = http://localhost:5278
+
+GET {{CareFlowLite_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
